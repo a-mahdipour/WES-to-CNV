@@ -1,6 +1,6 @@
-# CNVfromWES
+# WES-to-CNV
 
-Providing CNV curve from WES data.
+_Providing required files in shell starting from WES data to detect copy number variations_
 ---
 
 This Repo covers the following steps in generating CNVs from WES data. To this end, follow the bellow steps :
