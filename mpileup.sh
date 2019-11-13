@@ -2,7 +2,6 @@
 #
 #$ -cwd
 #$ -S /bin/bash
-#
 
 . /etc/bashrc
 
